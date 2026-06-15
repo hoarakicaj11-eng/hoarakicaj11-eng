@@ -1,16 +1,15 @@
-## Hi there 👋
+![Banner](banner.png)
 
-<!--
-**hoarakicaj11-eng/hoarakicaj11-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Lori Hasanaj
+**Ethical Hacker in Training | Junior Penetration Tester | London, UK**
 
-Here are some ideas to get you started:
+📱 07592 980 616 | 📧 lori28hasanaj@icloud.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🔐 Currently studying: CompTIA Security+ | EC-Council CEH
+
+🧪 Practicing on: TryHackMe | Hack The Box
+
+🛠 Tools: Kali Linux | Nmap | Metasploit | Burp Suite | Python
+
+📁 Check out my pinned repos below 👇
