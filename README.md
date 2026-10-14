@@ -1,9 +1,7 @@
 ![Banner](banner.png)
 
 ## 👋 Hi, I'm Lori Hasanaj
-**Ethical Hacker in Training | Junior Penetration Tester | London, UK**
-
-📱 07592 980 616 | 📧 lori28hasanaj@icloud.com
+**Ethical Hacker in Training | Junior Penetration Tester | London, UK** 📧 lori28hasanaj@icloud.com
 
 ---
 🔐 Currently studying: CompTIA Security+ | EC-Council CEH
